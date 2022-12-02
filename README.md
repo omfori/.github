@@ -1,4 +1,4 @@
-[Omfori - A bot with __quality__ & a sense of __humor__.](https://github.com/Omfori/.github/blob/main/images/Omfori.png)\n
+[Omfori - A bot with __quality__ & a sense of __humor__.](https://github.com/omfori/.github/blob/main/images/Omfori.png)
 
 
 

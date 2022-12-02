@@ -1,1 +1,1 @@
-![koojeAIP](https://github.com/koojeAPI/.github/blob/main/images/ok.png)
+![Omfori](https://github.com/omfori/.github/blob/main/images/Omfori.png)
