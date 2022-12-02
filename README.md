@@ -1,5 +1,4 @@
-[Omfori](https://github.com/Omfori/.github/blob/main/images/koojeAPI.png)
-Omfori - A bot with __quality__ & a sense of __humor__.
+## Omfori - A bot with __quality__ & a sense of __humor__.
 
 
 
